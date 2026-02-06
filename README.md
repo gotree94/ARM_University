@@ -46,13 +46,32 @@
    * Teach the fundamentals of VLSI design, including how the theories and concepts can be applied in the design of simple logic circuits 
    * and in the physical implementation of a simplified microprocessor.
 
-
-
-
 ## 2. Explore Education Kits Tools
    * I am a university / college student
    * Our directly accessible online resources allow for self-paced study that provides stretch, 
    * or a little extra help to accelerate learning in key Computer Science, Computer Engineering and Electronic Engineering topics.
+
+### 2.1 Embedded Systems Essentials with Arm – Professional Certificate on edX
+   * Learn how to implement real-world embedded system projects firstly on a simulated microcontroller 
+   * using the Mbed API and then get hands on with hardware using a development board to build working embedded prototypes.
+
+### 2.2 Advanced Embedded Systems on Arm – Professional Certificate on edX
+   * Gain an understanding of the fundamental concepts, challenges, and technologies of deploying IoT and ML applications on Arm-based development boards.
+
+### 2.3 Introduction to Microprocessors 
+   * An introduction to computer architecture, microprocessors, and CPUs. Learn about the basic components of a PC, 
+   * what they do, how they talk to each other and how object code gets transformed into machine code.
+
+### 2.4 Computer Architecture Essentials on Arm
+   * Gain an understanding of the architecture of modern microprocessors - from pipelining and branching 
+   * to cache memories and super-scalar processors. 
+   * Our lab exercises will bring to life the theory discussed in the course through a range of simulation tools.
+
+### 2.5 Business Models for Technology Innovators
+   * Engineers and technology innovators need to understand how their contribution fits into the bigger picture. 
+   * At the heart of this is the business model. Learn through a series of case studies how to understand and deploy business 
+   * models to capture value and maximize opportunities from your passion for technology.
+
 
 ## 3. Explore Courses Explore Books
    * I am a professional engineer
